@@ -1,0 +1,11 @@
+checkpoints/
+results/
+data_140k/
+data_extra/
+data_extra2/
+data/
+__pycache__/
+.gradio/
+*.zip
+*.parquet
+*.bak
